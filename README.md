@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning ... everything I guess 🐣
 <!--
 **Bhummanat/Bhummanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
